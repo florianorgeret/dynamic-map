@@ -1,5 +1,7 @@
 # dynamic-map
 
+![](https://github.com/florianorgeret/dynamic-map/blob/main/dyn-map_logo.png)
+
 This map is an update of the supplementary file from https://onlinelibrary.wiley.com/doi/ftr/10.1111/ele.13920
 
 To cite this dynamic-map in publication use:
