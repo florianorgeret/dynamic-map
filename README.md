@@ -2,7 +2,10 @@
 
 ![](https://github.com/florianorgeret/dynamic-map/blob/main/dyn-map_logo.png)
 
-This map is an update of the supplementary file from https://onlinelibrary.wiley.com/doi/ftr/10.1111/ele.13920
+This map of climate change impacts on seabirds and marine mammals is an update of the supplementary file from https://onlinelibrary.wiley.com/doi/ftr/10.1111/ele.13920
+generated with [leaflet](https://rstudio.github.io/leaflet/index.html):
+
+Cheng J, Schloerke B, Karambelkar B, Xie Y (2024). leaflet: Create Interactive Web Maps with the JavaScript 'Leaflet' Library. R package version 2.2.2.9000, https://github.com/rstudio/leaflet, https://rstudio.github.io/leaflet/.
 
 To cite this dynamic-map in publication use:
 
